@@ -1,0 +1,46 @@
+{
+  "_from": "git+https://github.com/hirtenfelder/cordova-plugin-template.git",
+  "_id": "cordova-plugin-template@0.0.0",
+  "_inBundle": false,
+  "_location": "/cordova-plugin-template",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/hirtenfelder/cordova-plugin-template.git",
+    "rawSpec": "https://github.com/hirtenfelder/cordova-plugin-template.git",
+    "saveSpec": "git+https://github.com/hirtenfelder/cordova-plugin-template.git",
+    "fetchSpec": "https://github.com/hirtenfelder/cordova-plugin-template.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/hirtenfelder/cordova-plugin-template.git#50e883175541ed7a17587e1bb6ce543ed4010e92",
+  "_spec": "https://github.com/hirtenfelder/cordova-plugin-template.git",
+  "_where": "C:\\Users\\Usuario\\Documents\\Feina\\nrtest",
+  "author": {
+    "name": "Raphael Hirtenfelder",
+    "email": "hirtenfelder@bluewin.ch"
+  },
+  "bugs": {
+    "url": "https://github.com/hirtenfelder/cordova-plugin-template/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "CordovaPluginTemplate",
+  "deprecated": false,
+  "description": "Cordova Plugin Template",
+  "homepage": "https://github.com/hirtenfelder/cordova-plugin-template#readme",
+  "keywords": [
+    "cordova",
+    "plugin",
+    "template"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirtenfelder/cordova-plugin-template.git"
+  },
+  "version": "0.0.0"
+}
